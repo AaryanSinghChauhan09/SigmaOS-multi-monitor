@@ -3,7 +3,7 @@ name = "SigmaOS-multi-monitor"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "multi-monitor component"
+description = "multi monitor"
 upstream = []
 
 [contract]
